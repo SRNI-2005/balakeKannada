@@ -12,11 +12,11 @@ let option2 = options[1];
 let option3 = options[2];
 let option4 = options[3];
 
-let questions = ["____ yaava uuru?","namma kaaleeju tumba …………………………………..","ivattu ……………………. Pariikshe(test) ide.","bengaLuuru ………………… raajadhaani(capital city).","…………………… namma shikshakaru.","run: ooDu :: read …………….","kannaDa form of orange colour……………..","kannaDa form of 4th is ……………..","opposite of eDagaDe X ………….","opposite of hosa X …………."];
-let correctAns = ["niinu", "cannaagide.","namage","namma","avaru","oodu","ippattu","naalkanee","balagaDe"];
-let incorrectAns1 = ["nimma", "cannaagideyaa?","naavu","naanu","idu","OOdu","eppattu","naalkara","bala",];
-let incorrectAns2 = ["niMa", "cannaagiddiini.","niinu","nanna","ivara","odu","eraDu sonne","naalku","balakke"];
-let incorrectAns3 = ["neenu", "cannaagilla","naanu","nannadu","idara","oDu","yeppattu","naalakku","balakaDe"];
+let questions = ["____ yaava uuru?","namma kaaleeju tumba _____","ivattu _________. Pariikshe(test) ide.","bengaLuuru _______ raajadhaani(capital city).","_______________ namma shikshakaru.","run: ooDu :: read ______.","kannaDa form of orange __________..","Twenty in kannada","kannaDa form of 4th is _______..","opposite of eDagaDe X _______.","opposite of hosa X _____.","This is our 10th kannada class.","I am a good student","Please give me 100 rupees.","Other gender of \"maga\"(son) is ______","Other gender of \"tande\" is ___","head: tale :: leg : _____","namma kaaleejina ______. Bank ide.","nimma mane ________. Ide?","vidyaarthigaLu _____ bandaru.(to college)","bangalure is a beautiful city."];
+let correctAns = ["niinu", "cannaagide.","namage","namma","avaru","oodu","kittale hannu","ippattu","naalkanee","balagaDe","haleya","idu namma hattanee kannaDa taragati.","naanu oLLeya vidyaarthi.","dayaviTTu nanage nuuru rupaayi koDi","magaLu","taayi","kaalu","oLage","elli","kaaleejige","bengaLuuru ondu sundaravaada nagara"];
+let incorrectAns1 = ["nimma", "cannaagideyaa?","naavu","naanu","idu","OOdu","keesari baNNa","eppattu","naalkara","bala","haLe","idu 10 kannaDa taragati.","naanu oLLeya magu","dayaviTTu nuuru koDi","magu","tangi","kaLu","meele","yaaru","kaaleeju","bengaLuuru ondu sundaravaada haLLi."];
+let incorrectAns2 = ["niMa", "cannaagiddiini.","niinu","nanna","ivara","odu","kittale baNNa","eraDu sonne","naalku","balakke","hoLedu","idu nanna hattanee kannaDa taragati.","naavu oLLeya vidyaarthigaLu.","dayaviTTu nooru rupaayi koDi","heNNu","taayi","kaalugaLu","munde","yaLLi","kaaleejina","bengaLuuru ondu nagara."];
+let incorrectAns3 = ["neenu", "cannaagilla","naanu","nannadu","idara","oDu","kittale","yeppattu","naalakku","balakaDe","haleDu","idu nanna haTTanee kannaDa taragati.","naavu oLLeya vidyaarthigaLu alla.","dayaviTTu nooru rupaayi KoDi","maga","tandi","kalu","monde","eLLi","kaaleju","bengaluru ondu sundaravaada nagara"];
 
 let correctScore = 0;
 let incorrectScore = 0;
